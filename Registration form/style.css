@@ -1,0 +1,29 @@
+
+.container{
+	
+	/* border:2px solid black; */
+	background:#0096882e
+	
+}
+
+.container #form .row{
+	margin:20px;
+	padding:20px;
+	width:500px;
+	height:400px;
+	text-align:center;
+}
+
+
+
+
+.error{
+   border:2px solid red; 
+}
+.success{
+    border:2px solid green;
+    color:green;
+}
+.errorText{
+    display: none;
+}
